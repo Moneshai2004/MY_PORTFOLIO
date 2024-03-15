@@ -41,11 +41,11 @@ const AboutPage = () => {
             <h1 className="font-bold text-2xl">BIOGRAPHY</h1>
             {/* BIOGRAPHY DESC */}
             <p className="text-lg">
-                "Meet Monesh: Full-stack developer passionate about crafting immersive digital experiences. With expertise in frontend aesthetics and backend functionality, I thrive on pushing the boundaries of innovation. Let's collaborate and build something extraordinary together."
+                &quot;Meet Monesh: Full-stack developer passionate about crafting immersive digital experiences. With expertise in frontend aesthetics and backend functionality, I thrive on pushing the boundaries of innovation. Let&apos;s collaborate and build something extraordinary together.&quot;
             </p>
             {/* BIOGRAPHY QUOTE */}
             <span className="italic">
-             "Persist through any challenge; success awaits those who refuse to surrender, no matter the circumstances."
+             &quot;Persist through any challenge; success awaits those who refuse to surrender no matter the circumstances.&quot;
             </span>
             {/* BIOGRAPHY SIGN SVG*/}
             <div className="self-end">
@@ -264,7 +264,7 @@ const AboutPage = () => {
                   </div>
                   {/* JOB DESC */}
                   <div className="p-3 text-sm italic">
-                   Power BI's features and functionalities to transform raw data into actionable insights, enabling informed decision-making within organizations.{" "}
+                   Power BI&apos;s features and functionalities to transform raw data into actionable insights, enabling informed decision-making within organizations.{" "}
                   </div>
                   {/* JOB DATE */}
                   <div className="p-3 text-red-400 text-sm font-semibold">
