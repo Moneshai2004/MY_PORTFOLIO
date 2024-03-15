@@ -82,7 +82,7 @@ const Navbar = () => {
           href="/"
           className="text-sm bg-black rounded-md p-1 font-semibold flex items-center justify-center"
         >
-          <span className="text-white mr-1">Lama</span>
+          <span className="text-white mr-1">Monesh</span>
           <span className="w-12 h-8 rounded bg-white text-black flex items-center justify-center">
             .dev
           </span>
@@ -90,22 +90,19 @@ const Navbar = () => {
       </div>
       {/* SOCIAL */}
       <div className="hidden md:flex gap-4 w-1/3">
-        <Link href="/">
+        <Link href="https://github.com/Moneshai2004">
           <Image src="/github.png" alt="" width={24} height={24} />
         </Link>
-        <Link href="/">
+        <Link href="https://dribbble.com/monesh_23_06">
           <Image src="/dribbble.png" alt="" width={24} height={24} />
         </Link>
-        <Link href="/">
+        <Link href="https://www.instagram.com/monesh_23_06/">
           <Image src="/instagram.png" alt="" width={24} height={24} />
         </Link>
         <Link href="/">
           <Image src="/facebook.png" alt="" width={24} height={24} />
         </Link>
-        <Link href="/">
-          <Image src="/pinterest.png" alt="" width={24} height={24} />
-        </Link>
-        <Link href="/">
+        <Link href="https://www.linkedin.com/in/monesh2306">
           <Image src="/linkedin.png" alt="" width={24} height={24} />
         </Link>
       </div>
